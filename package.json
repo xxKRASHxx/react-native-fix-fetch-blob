@@ -1,0 +1,29 @@
+{
+  "name": "react-native-fix-fetch-blob",
+  "version": "1.0.0",
+  "description": "A library to help you fix react-native-fetch-blob on react-native >0.60.x",
+  "main": "index.js",
+  "bin": "./bin/fix.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxKRASHxx/react-native-fix-fetch-blob.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "fetch",
+    "blob"
+  ],
+  "author": "Daniel Lisovoy",
+  "license": "MIT",
+  "homepage": "https://github.com/xxKRASHxx/react-native-fix-fetch-blob#README.md",
+  "bugs": {
+    "url": "https://github.com/xxKRASHxx/react-native-fix-fetch-blob.git"
+  },
+  "peerDependencies": {
+    "react-native": "<0.60.0"
+  }
+}
