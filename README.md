@@ -1,12 +1,8 @@
 # react-native-fix-fetch-blob
-A library to help you fix react-native-fetch-blob on react-native >0.60.x
-
-
-
-## A library to help you fix images on ios 14 for react-native
+A library to help you fix cocoapods installation of the react-native-fetch-blob on react-native >0.60.x
 
 ## Usage
-**You don't need to install this package in order to fix images.**
+**You don't need to install this package.**
 Add a postinstall script in your package.json and every time you will install dependencies the script will run fixing the problem.
 
 1. add postinstall script (example below);

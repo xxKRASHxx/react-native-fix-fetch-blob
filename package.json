@@ -15,7 +15,11 @@
     "react-native",
     "ios",
     "fetch",
-    "blob"
+    "blob",
+    "cocoapods",
+    "cocoa",
+    "pods",
+    "pod"
   ],
   "author": "Daniel Lisovoy",
   "license": "MIT",
